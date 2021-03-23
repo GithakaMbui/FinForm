@@ -1,0 +1,1725 @@
+/* Smartphones (portrait) ----------- */
+@media (max-width : 1028px) {
+/**--Layout--**/
+
+/**App Header**/
+.panel.app-header,
+.panel.app-header .navbar-default,
+.panel.app-header .navbar-brand,
+.panel.app-header .navbar-default .navbar-nav,
+.panel.app-header .navbar-default .navbar-nav li
+{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	-o-border-radius: 0px;
+}
+
+.panel.app-header
+{
+	position: fixed;
+	width: 100%;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	border-bottom: 1px solid #fff;
+	z-index: 1000;
+}
+
+.panel.app-header .navbar-default
+{
+	background-color: #fff;
+}
+
+.panel.app-header .navbar-brand
+{
+	padding: 20px;
+}
+
+.panel.app-header .navbar-collapse img,
+.panel.app-header .navbar-collapse span.label
+{
+	display: block;
+	position: relative;
+	top: 12px;
+	height: 32px;
+	width: 32px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+}
+
+.panel.app-header .dropdown.open a
+{
+	background: transparent;
+}
+
+.panel.app-header .dropdown.open .dropdown-menu
+{
+	top: 119%;
+	right: 20%;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	border: 1px solid #fafafa;
+}
+
+
+.panel.app-header .dropdown.open .dropdown-menu a
+{
+	padding-left: 50px;
+	font-family: 'Ubuntu', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 15px;
+	color: #a9a9a9;
+}
+/**End App Header**/
+
+/**App Footer**/
+.panel.app-footer
+{
+
+}
+/**End App Footer**/
+
+/**Master Detail**/
+.panel.master-detail
+{
+	width: 100%;
+	background-color: #f9f9f9;
+}
+
+.panel.master-detail > .content > .master,
+.panel.master-detail > .content > .detail
+{
+	display: block;
+	float: left;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: auto;
+	height: auto;
+	margin: 0px;
+	padding: 20px;
+}
+
+.panel.master-detail  > .content > .master
+{
+	display: none;
+	min-height: 200px;
+	width: 20%;
+	padding: 40px 100px 20px 40px!important;
+}
+
+.panel.master-detail > .content > .master .menu,
+.panel.master-detail > .content > .master .menu li,
+.panel.master-detail > .content > .master .menu li a
+{
+	display: block;
+	position: relative;
+	width: auto;
+}
+
+.panel.master-detail > .content > .master .menu li
+{
+	padding-bottom: 30px;
+}
+
+.panel.master-detail > .content > .master .menu li a
+{
+	font-family: 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 17px;
+	text-decoration: none;
+	color: #a9a9a9;
+}
+
+.panel.master-detail > .content > .master .menu li.active a,
+.panel.master-detail > .content > .master .menu li a:hover
+{
+	color: #529ecc;
+}
+
+.panel.master-detail > .content > .master .btn-toggle-master
+{
+	position: fixed;
+	top: 25px;
+	left: 40px;
+	z-index: 1500;
+}
+
+.panel.master-detail > .content > .master .btn-toggle-master .fa,
+.panel.master-detail > .content > .master .btn-toggle-master .glyphicon
+{
+	font-size: 26px;
+	color: #a9a9a9;
+}
+
+.panel.master-detail > .content > .detail
+{
+	width: 79%;
+}
+
+.panel.master-detail.no-master > .content > .detail
+{
+	width: 100%;
+}
+/**End Master Detail**/
+
+/**Content Container**/
+.panel.content-container,
+.panel.content-container > .header,
+.panel.content-container > .content
+{
+  background: transparent;
+}
+/**End Content Container**/
+
+/**Flip Panes**/
+.panel.flip-panes
+{
+	background: transparent;
+}
+
+.panel.flip-panes .pane
+{
+	min-height: 960px;
+	padding: 10px;
+	margin-right: 20px!important;
+	background-color: #fff;
+}
+/**End Flip Panes**/
+
+/**--Lists--**/
+.panel.list
+{
+  padding-top: 80px;
+  background: transparent;
+}	
+
+.panel.list > .header .heading
+{
+	padding-left: 20px;
+	font-family: 'Open Sans Light', Helvetica, sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+	color: #a9a9a9;
+}
+/**--End Lists--**/
+
+/**--End Layout--**/
+
+/*----End App Views----*/
+
+
+
+/*--------------------------------------------------------*/
+/*------App Pages--------*/
+
+/**Common**/
+body
+{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	color: #898989;
+}
+
+body.user-page,
+body.user-page .app-page .panel.page
+{
+	background-color: #f8f8f8;
+}
+
+body .app-page,
+.app-page .panel.page
+{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+/**End Common**/
+
+/**Start Page**/
+.page.start-page > .content
+{
+	height: 100%;
+	width: 100%;
+}
+
+.page.start-page .hero
+{
+	height: 100%!important;
+	background: transparent url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+
+.page.start-page .hero .bg-overlay
+{
+	background-color: #222;
+	opacity: 0.3;
+	z-index: 1;
+}
+
+.page.start-page .hero > .content
+{
+	padding-top: 12em;
+	z-index: 10;
+}
+
+.page.start-page .hero .logo
+{
+	font-family: 'Fredoka One', 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+.page.start-page .hero .summary
+{
+	padding: 20px;
+	font-family: 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 25px;
+	line-height: 21px;
+	color: #fff;
+}
+
+.page.start-page .hero .btn
+{
+	padding: 15px 20px 15px 20px;
+	font-family: 'Ubuntu', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 18px;
+}
+/**Start Page**/
+
+/**--Setup Pages--**/
+
+/**Setup Page**/
+.page.setup-page,
+.page.setup-page > .content,
+.page.setup-page > .content > .container
+{
+	height: 100%;
+}
+
+.page.setup-page > .content
+{
+	padding: 0em;
+	background: #ffbc69 url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+
+.page.setup-page .setup-form
+{
+	height: 100%;
+	padding: 6em 5em 10em 1em;
+}
+
+.page.setup-page .setup-form > .header .heading
+{
+	margin-left: 2em;
+	font-size: 29px;
+}
+
+.page.setup-page .setup-form .form-group
+{
+	margin-left: 4em;
+	width: 80%;
+}
+
+.page.setup-page .setup-form .form-control
+{
+	width: 100%;
+}
+/**End Setup Page**/
+
+/**Complete Registration**/
+/**End Complete Registration**/
+
+/**Make Post**/
+.page.setup-page.post > .content
+{
+	background: #ffbc69;
+}
+
+.page.setup-page.post .setup-form
+{
+	padding: 5em;
+}
+.page.setup-page.post .setup-form > .header .heading
+{
+	margin-left:0px;
+	width: auto;
+}
+
+.page.setup-page.post .setup-form > .content
+{
+	padding-top: 0em;
+}
+
+.page.setup-page.post .form.setup-form .form-group
+{
+	width: auto;
+	margin: 0em 0em 1em 1em;
+}
+
+.page.setup-page.post .form.setup-form .form-group .col-md-6
+{
+	margin-top: 1em;
+	width: 100%;
+}
+
+.page.setup-page.post .form.setup-form .form-group.action-group
+{
+	margin-left: 2em;
+}
+
+.page.setup-page textarea
+{
+	height: 150px;
+	resize: none;
+}
+
+/**End Make Post**/
+
+/**--End Setup Pages--**/
+
+/**User Page**/
+.page.user-page .panel.master-detail > .content
+{
+	padding-top: 80px;
+}
+
+.page.user-page .panel.master-detail .master
+{
+	display: none;
+}
+
+.page.user-page .panel.master-detail .detail
+{
+	width: 100%;
+	left: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile,
+.page.user-page .panel.master-detail .menu li.hunter .profile > div
+{
+	display: block;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 100%;
+	padding: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .pic img
+{
+	display: block;
+	position: relative;
+	left: -10px;
+	height: 150px;
+	width: 150px;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .details
+{
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	text-align: center;
+}
+/**End User Page**/
+
+/**Posts Page**/
+.posts-page .panel.post-search-form
+{
+	position: fixed;
+	top: 70px;
+	left: 20px;
+	height: 100px;
+	width: 800px;
+	padding: 20px 0px 20px 80px;
+	background: #f9f9f9;
+	z-index: 200;
+}
+
+/**End Posts Page**/
+
+/**Post Page**/
+
+.panel.post-page .panel.card-list
+{
+	padding-left: 40px;
+}
+
+.panel.post-page .panel.card-list > .content > .row
+{
+	display: inline-block;
+}
+
+.panel.post-page .panel.card-list > .content > .row > ul > li
+{
+	margin: 10px;
+}
+
+.panel.post-page .flip-panes
+{
+	padding-left: 0px;
+}
+
+.panel.post-page .flip-panes .post-profile-pane
+{
+	position: fixed;
+	top: 40px;
+	left: 0px;
+	width: 100%;
+	height: 100px;
+	min-height: 10px;
+	padding: 20px 0px 0px 0px;
+	background: #fdfdfd;
+	z-index: 200;
+}
+
+.panel.post-page .flip-panes .post-profile-pane *
+{
+	background: #fdfdfd;
+}
+
+.panel.post-page .flip-panes .post-profile-pane .post-profile,
+.panel.post-page .flip-panes .post-profile-pane .post-profile > .content
+{
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.panel.post-page .post-profile .profile-pic,
+.panel.post-page .post-profile .post-features
+{
+	float: left;
+}
+
+.panel.post-page .post-profile > .content .profile-pic
+{
+	height: 51px;
+	width: 120px;
+}
+
+.panel.post-page .post-profile > .content .profile-pic img
+{
+	position: relative;
+	top: 10px;
+	left: 40px;
+	height: 50px;
+	width: 50px;
+	border-radius: 40px;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+}
+
+.panel.post-page .post-profile .post-features .features
+{
+	display: inline;
+	width: auto;
+	padding: 0px;
+	margin: 0px;
+}
+
+.panel.post-page .flip-panes
+{
+	width: 100%;
+}
+
+.panel.post-page .flip-panes .messages-pane
+{
+	position: relative;
+	top: 0px;
+	width: 100%;
+	padding: 0px;
+	background-color: #f9f9f9;
+}
+
+
+.panel.post-page .flip-panes .messages-pane .chat-box
+{
+	width: 100%;
+	margin-top: 150px;
+	padding: 0px;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box > .header
+{
+	position: fixed;
+	top: 140px;
+	width: 100%;
+	margin: 0px;
+	padding: 10px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	z-index: 100;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box .message-box
+{
+	width: 100%;
+	left:0px;
+}
+/**End Post Page**/
+
+/*------End App Pages-----*/
+}
+
+@media (max-width : 780px) {
+
+/**--Layout--**/
+
+/**App Header**/
+.panel.app-header,
+.panel.app-header .navbar-default,
+.panel.app-header .navbar-brand,
+.panel.app-header .navbar-default .navbar-nav,
+.panel.app-header .navbar-default .navbar-nav li
+{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	-o-border-radius: 0px;
+}
+
+.panel.app-header
+{
+	position: fixed;
+	width: 100%;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	border-bottom: 1px solid #fff;
+	z-index: 1000;
+}
+
+.panel.app-header .navbar-default
+{
+	background-color: #fff;
+}
+
+.panel.app-header .navbar-brand
+{
+	padding: 20px;
+}
+
+.panel.app-header .navbar-collapse
+{
+	position: fixed!important;
+	top: 0px;
+	right: 0px!important;
+	padding-top: 5px;
+}
+
+
+.panel.app-header .dropdown.open .dropdown-menu
+{
+	position: fixed;
+	top: 70px;
+	right: -10px;
+	height: 100%;
+    -webkit-box-shadow: 2px 2px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 2px 2px 4px 0 rgba(0,0,0,0.14);
+	border: 1px solid #fff;
+	background-color: #fff;
+	z-index: 10;
+}
+
+
+.panel.app-header .dropdown.open .dropdown-menu a
+{
+	padding-left: 50px;
+	font-family: 'Ubuntu', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 15px;
+	color: #a9a9a9;
+}
+/**End App Header**/
+/*----Layout---*/
+
+
+/*--------------------------------------------------------*/
+/*------App Pages--------*/
+
+/**Common**/
+
+
+body
+{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	color: #898989;
+}
+
+body.user-page,
+body.user-page .app-page .panel.page
+{
+	background-color: #f8f8f8;
+}
+
+body .app-page,
+.app-page .panel.page
+{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+/**End Common**/
+
+/**Start Page**/
+.page.start-page > .content
+{
+	height: 100%;
+	width: 100%;
+}
+
+.page.start-page .hero
+{
+	height: 100%!important;
+	background: transparent url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+
+.page.start-page .hero .bg-overlay
+{
+	background-color: #222;
+	opacity: 0.3;
+	z-index: 1;
+}
+
+.page.start-page .hero > .content
+{
+	padding-top: 12em;
+	z-index: 10;
+}
+
+.page.start-page .hero .logo
+{
+	font-family: 'Fredoka One', 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+.page.start-page .hero .summary
+{
+	padding: 20px;
+	font-family: 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 25px;
+	line-height: 21px;
+	color: #fff;
+}
+
+.page.start-page .hero .btn
+{
+	padding: 15px 20px 15px 20px;
+	font-family: 'Ubuntu', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 18px;
+}
+/**Start Page**/
+
+/**--Setup Pages--**/
+
+/**Setup Page**/
+.page.setup-page,
+.page.setup-page > .content,
+.page.setup-page > .content > .container
+{
+	height: 100%;
+}
+
+.page.setup-page > .content
+{
+	padding: 0em;
+	background: #ffbc69 url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+
+.page.setup-page .setup-form
+{
+	height: 100%;
+	padding: 1em 5em 10em 1em;
+}
+
+.page.setup-page .setup-form > .header
+{
+	max-width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.page.setup-page .setup-form > .header .heading
+{
+	max-width: 100%;
+	margin-left: 1em;
+	padding: 0px;
+	font-size: 23px;
+}
+
+.page.setup-page .setup-form > .content
+{
+	margin-top: 1em;
+}
+
+.page.setup-page .setup-form .form-group
+{
+	margin: 0px;
+	margin-left: 2em;
+	width: 90%;
+}
+
+.page.setup-page .setup-form .form-control
+{
+	width: 100%;
+}
+/**End Setup Page**/
+
+/**Complete Registration**/
+/**End Complete Registration**/
+
+/**Make Post**/
+.page.setup-page.post > .content
+{
+	background: #ffbc69;
+}
+
+.page.setup-page.post .setup-form
+{
+	padding: 1em;
+}
+.page.setup-page.post .setup-form > .header .heading
+{
+	margin-left:0px;
+	width: auto;
+}
+
+.page.setup-page.post .setup-form > .content
+{
+	padding-top: 0em;
+}
+
+.page.setup-page.post .form.setup-form .form-group
+{
+	width: auto;
+	margin: 0em 0em 1em 1em;
+}
+
+.page.setup-page.post .form.setup-form .form-group .col-md-6
+{
+	margin-top: 1em;
+	width: 100%;
+}
+
+.page.setup-page.post .form.setup-form .form-group.action-group
+{
+	margin-left: 1em;
+}
+
+.page.setup-page textarea
+{
+	height: 150px;
+	resize: none;
+}
+
+.page.setup-page.post .form.setup-form  .btn-warning,
+.page.setup-page.post .form.setup-form  .btn-warning a
+{
+	background-color: #fafafa;
+	color: #529ecc!important;
+}
+/**End Make Post**/
+
+/**--End Setup Pages--**/
+
+/**User Page**/
+.page.user-page .panel.master-detail > .content
+{
+	padding-top: 80px;
+}
+
+.page.user-page .panel.master-detail .master
+{
+	display: none;
+}
+
+.page.user-page .panel.master-detail .detail
+{
+	width: 100%;
+	left: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile,
+.page.user-page .panel.master-detail .menu li.hunter .profile > div
+{
+	display: block;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 100%;
+	padding: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .pic img
+{
+	display: block;
+	position: relative;
+	left: -10px;
+	height: 150px;
+	width: 150px;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .details
+{
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	text-align: center;
+}
+/**End User Page**/
+
+/**Posts Page**/
+.posts-page .panel.list.card-list.post-list
+{
+	position: relative;
+	padding-top: 20px;
+	width: 100%;
+}
+
+.posts-page .panel.post-search-form
+{
+	position: relative;
+	top: 10px;
+	left: -10px;
+	height: 100%;
+	width: auto;
+	padding: 10px;
+	margin: 0px;
+	background: #f9f9f9;
+	z-index: 200;
+}
+
+.posts-page .panel.post-search-form > .content,
+.posts-page .panel.post-search-form ul
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.posts-page .panel.post-search-form li
+{
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+
+.posts-page .panel.post-search-form li .form-group
+{
+	width: 100%;
+	margin: 0px;
+	padding: 5px;
+}
+
+.posts-page .panel.post-search-form li .form-control
+{
+	width: 100%;
+}
+
+.posts-page .panel.card-list
+{
+	padding-left: 20px;
+}
+/**End Posts Page**/
+
+/**Post Page**/
+.panel.post-page .flip-panes
+{
+	padding-left: 0px;
+}
+
+.panel.post-page .flip-panes
+{
+	width: 100%;
+}
+
+.panel.post-page .flip-panes .messages-pane
+{
+	position: relative;
+	top: 0px;
+	width: 100%;
+	padding: 0px;
+	background-color: #f9f9f9;
+}
+
+
+.panel.post-page .flip-panes .messages-pane .chat-box
+{
+	width: 100%;
+	margin-top: 150px;
+	padding: 0px;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box > .header
+{
+	position: fixed;
+	top: 140px;
+	width: 100%;
+	margin: 0px;
+	padding: 10px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	z-index: 100;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box .message-box
+{
+	width: 100%;
+	left:0px;
+}
+/**End Post Page**/
+
+/*------End App Pages-----*/
+}
+
+/* Smartphones (landscape) ----------- */
+@media (min-width: 381px) and (max-width : 500px) {
+/**Views**/
+/**Cards**/
+.panel.post-card .pic
+{
+	width: 15%;
+}
+
+/**End Cards**/
+/**End Views**/
+/**--Layout--**/
+
+/**App Header**/
+.panel.app-header,
+.panel.app-header .navbar-default,
+.panel.app-header .navbar-brand,
+.panel.app-header .navbar-default .navbar-nav,
+.panel.app-header .navbar-default .navbar-nav li
+{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	-o-border-radius: 0px;
+}
+
+.panel.app-header
+{
+	position: fixed;
+	width: 100%;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	border-bottom: 1px solid #fff;
+	z-index: 1000;
+}
+
+.panel.app-header .navbar-default
+{
+	background-color: #fff;
+}
+
+.panel.app-header .navbar-brand
+{
+	padding: 20px;
+}
+
+.panel.app-header .navbar-collapse
+{
+	position: fixed!important;
+	top: 0px;
+	right: 0px!important;
+}
+
+.panel.app-header .navbar-collapse img,
+.panel.app-header .navbar-collapse span.label
+{
+	display: block;
+	position: relative;
+	top: 6px;
+	height: 32px;
+	width: 32px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	background: transparent;
+}
+
+.panel.app-header #notifications
+{
+	float: right;
+}
+
+.panel.app-header #notifications .label .fa,
+.panel.app-header #notifications .label .glyphicon
+{
+	position: relative;
+	top: 4px;
+	font-size: 20px;
+	color: #a9a9a9;
+}
+
+.panel.app-header #notifications .label .fa,
+.panel.app-header #notifications .label .glyphicon
+{
+	color: #ffbc69;
+}
+
+.panel.app-header .dropdown.open a
+{
+	background: transparent;
+}
+
+.panel.app-header .dropdown.open .dropdown-menu
+{
+	position: fixed;
+	top: 70px;
+	right: -10px;
+	height: 100%;
+    -webkit-box-shadow: 2px 2px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 2px 2px 4px 0 rgba(0,0,0,0.14);
+	border: 1px solid #fff;
+	background-color: #fff;
+	z-index: 10;
+}
+
+
+.panel.app-header .dropdown.open .dropdown-menu a
+{
+	padding-left: 50px;
+	font-family: 'Ubuntu', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 15px;
+	color: #a9a9a9;
+}
+/**End App Header**/
+/*----Layout---*/
+
+/*----------------------------------------------------------------*/
+/*------App Pages-----*/
+/**Start Page**/
+.page.start-page > .content
+{
+	height: 100%;
+	width: 100%;
+}
+
+.page.start-page .hero
+{
+	height: 100%!important;
+	background: transparent url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+
+.page.start-page .hero .bg-overlay
+{
+	background-color: #222;
+	opacity: 0.3;
+	z-index: 1;
+}
+
+.page.start-page .hero > .content
+{
+	padding-top: 12em;
+	z-index: 10;
+}
+
+.page.start-page .hero .logo
+{
+	font-family: 'Fredoka One', 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+.page.start-page .hero .summary
+{
+	padding: 20px;
+	font-family: 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 21px;
+	color: #fff;
+}
+
+.page.start-page .hero .btn
+{
+	padding: 15px 20px 15px 20px;
+	font-family: 'Ubuntu', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 18px;
+}
+/**Start Page**/
+/**--Setup Pages--**/
+
+/**Setup Page**/
+.page.setup-page,
+.page.setup-page > .content,
+.page.setup-page > .content > .container
+{
+	height: 100%;
+}
+
+.page.setup-page > .content
+{
+	background: #ffbc69 url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.page.setup-page .setup-form
+{
+	padding: 8em 5px 0px 5px;
+}
+
+.page.setup-page .setup-form > .header
+{
+	padding: 0px;
+}
+
+.page.setup-page .setup-form > .header .heading
+{
+	margin: 0px 0px 0px 0.5em;
+}
+
+.page.setup-page .setup-form > .content
+{
+	height: 100%;
+	padding: 20px 0px 0px 0px;
+	margin: 0px;
+}
+
+.page.setup-page .setup-form .form-group
+{
+	width: 100%;
+	padding: 0px;
+	margin: 5px;
+	margin-left: 1em;
+}
+
+.page.setup-page .setup-form .form-control
+{
+	width: 90%;
+}
+/**End Setup Page**/
+
+/**Complete Registration**/
+/**End Complete Registration**/
+
+
+/**Make Post**/
+.page.setup-page.post > .content
+{
+	padding: 0px;
+	margin: 0px;
+	width: 101%;
+	background: #ffbc69;
+}
+
+.page.setup-page.post .setup-form
+{
+	padding: 1em;
+	width: 100%;
+}
+
+.page.setup-page.post .setup-form > .header
+{
+	width: 100%;
+	padding: 0px;
+}
+
+.page.setup-page.post .setup-form > .header .heading
+{
+	margin-left:0px;
+	width: 320px;
+	font-family: 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 15px;
+	letter-spacing: normal;
+	line-height: 18px;
+}
+
+.page.setup-page.post .setup-form > .content
+{
+	padding-top: 0em;
+}
+
+.page.setup-page.post .form.setup-form .form-group
+{
+	width: 100%;
+	margin: 0px 0px 20px 0px;
+}
+
+.page.setup-page.post .form.setup-form .form-group .form-control
+{
+	width: 100%;
+}
+
+.page.setup-page.post .form.setup-form .form-group .col-md-6
+{
+	margin-top: 1em;
+	width: 100%;
+}
+
+.page.setup-page.post .form.setup-form .form-group.action-group
+{
+	margin-left: 0px;
+}
+
+.page.setup-page.post .form.setup-form  .btn
+{
+	clear: both!important;
+	float: none!important;
+	margin-top: 20px;
+	width: 100%;
+}
+
+.page.setup-page.post .form.setup-form  .btn-warning,
+.page.setup-page.post .form.setup-form  .btn-warning a
+{
+	background-color: #fafafa;
+	color: #529ecc!important;
+}
+
+.page.setup-page textarea
+{
+	height: 100px;
+	resize: none;
+}
+/**End make post page*/
+
+/**--End Setup Pages--**/
+
+/**User Page**/
+.page.user-page .panel.master-detail > .content
+{
+	padding-top: 80px;
+}
+
+.page.user-page .panel.master-detail .master
+{
+	display: none;
+}
+
+.page.user-page .panel.master-detail .detail
+{
+	width: 100%;
+	left: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile,
+.page.user-page .panel.master-detail .menu li.hunter .profile > div
+{
+	display: block;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 100%;
+	padding: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .pic img
+{
+	display: block;
+	position: relative;
+	left: -10px;
+	height: 150px;
+	width: 150px;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .details
+{
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	text-align: center;
+}
+/**End User Page**/
+
+/**Posts Page**/
+.posts-page .panel.list.card-list.post-list
+{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+/**End Posts Page**/
+
+/**Post Page**/
+.panel.post-page .flip-panes
+{
+	padding-left: 0px;
+}
+
+.panel.post-page .flip-panes
+{
+	width: 100%;
+}
+
+.panel.post-page .flip-panes .messages-pane
+{
+	position: relative;
+	top: 0px;
+	width: 100%;
+	padding: 0px;
+	background-color: #f9f9f9;
+}
+
+
+.panel.post-page .flip-panes .messages-pane .chat-box
+{
+	width: 100%;
+	margin-top: 150px;
+	padding: 0px;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box > .header
+{
+	position: fixed;
+	top: 140px;
+	width: 100%;
+	margin: 0px;
+	padding: 10px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	z-index: 100;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box .message-box
+{
+	width: 100%;
+	left:0px;
+}
+/**End Post Page**/
+}
+
+/* Smartphones (portrait) ----------- */
+@media (max-width : 380px) {
+/**Views**/
+/**Cards**/
+.panel.post-card
+{
+	height: auto;
+	top: 0px;
+	margin:0px 10px 30px 5px;
+}
+
+.panel.post-card .user-pic
+{
+	top: 20px;
+}
+/**End Cards**/
+/**End Views**/	
+/*----------------------------------------------------------------*/
+/*------App Pages-----*/
+/**Start Page**/
+.page.start-page > .content
+{
+	height: 100%;
+	width: 100%;
+}
+
+.page.start-page .hero
+{
+	height: 100%!important;
+	background: transparent url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+
+.page.start-page .hero .bg-overlay
+{
+	background-color: #222;
+	opacity: 0.3;
+	z-index: 1;
+}
+
+.page.start-page .hero > .content
+{
+    padding: 10px;
+	padding-top: 10em;
+	z-index: 10;
+}
+
+.page.start-page .hero .logo
+{
+	font-family: 'Fredoka One', 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+.page.start-page .hero .summary
+{
+	padding: 20px;
+	font-family: 'Raleway', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 21px;
+	color: #fff;
+}
+
+.page.start-page .hero .btn
+{
+	padding: 15px 20px 15px 20px;
+	font-family: 'Ubuntu', 'Open Sans Bold', Helvetica, sans-serif;
+	font-size: 18px;
+}
+/**Start Page**/
+/**--Setup Pages--**/
+
+/**Setup Page**/
+.page.setup-page,
+.page.setup-page > .content,
+.page.setup-page > .content > .container
+{
+	height: 100%;
+}
+
+.page.setup-page > .content
+{
+	padding: 0em;
+	background: #ffbc69 url(../img/bgs/patio-1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+
+.page.setup-page .setup-form
+{
+	padding: 10em 10px 10px 10px;
+	margin: 0px;
+}
+
+.page.setup-page .setup-form > .header
+{
+	max-width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.page.setup-page .setup-form > .header .heading
+{
+	max-width: 100%;
+	margin-left: 0em;
+	font-size: 20px;
+}
+
+.page.setup-page .setup-form > .content
+{
+	margin-top: 0px;
+	padding-top: 10px;
+}
+
+.page.setup-page .setup-form .form-group
+{
+	padding: 0px;
+	margin: 5px;
+	margin-left: 0em;
+	width: 100%;
+}
+
+.page.setup-page .setup-form .form-control
+{
+	width: 100%;
+	font-size: 14px;
+}
+
+.page.setup-page .setup-form .btn
+{
+	width: 100%;
+}
+/**End Setup Page**/
+
+/**Complete Registration**/
+/**End Complete Registration**/
+/**--Setup Pages--**/
+
+/**User Page**/
+.page.user-page .panel.master-detail > .content
+{
+	padding: 0px;
+	padding-top: 80px;
+}
+
+.page.user-page .panel.master-detail .master
+{
+	display: none;
+}
+
+.page.user-page .panel.master-detail .detail
+{
+	width: 100%;
+	padding: 0px;
+	margin-left: 0px;
+	left: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile,
+.page.user-page .panel.master-detail .menu li.hunter .profile > div
+{
+	display: block;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 100%;
+	padding: 0px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .pic img
+{
+	display: block;
+	position: relative;
+	left: -10px;
+	height: 150px;
+	width: 150px;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.page.user-page .panel.master-detail .menu li.hunter .profile .details
+{
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	text-align: center;
+}
+/**End User Page**/
+
+/**Posts Page**/
+.posts-page .panel.post-search-form
+{
+	position: relative;
+	top: 10px;
+	left: -10px;
+	height: 100%;
+	width: auto;
+	padding: 10px;
+	margin: 0px;
+	background: #f9f9f9;
+	z-index: 200;
+}
+
+.posts-page .panel.post-search-form > .content,
+.posts-page .panel.post-search-form ul
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.posts-page .panel.post-search-form li
+{
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+
+.posts-page .panel.post-search-form li .form-group
+{
+	width: 100%;
+	margin: 0px;
+	padding: 5px;
+}
+
+.posts-page .panel.post-search-form li .form-control
+{
+	width: 100%;
+}
+
+.posts-page .panel.list.card-list.post-list
+{
+	padding-top: 10px;
+	padding-left: 20px;
+}
+/**End Posts Page**/
+
+/**Post Page**/
+.panel.post-page .flip-panes
+{
+	padding-left: 0px;
+}
+
+.panel.post-page .flip-panes
+{
+	width: 100%;
+}
+
+.panel.post-page .flip-panes .messages-pane
+{
+	position: relative;
+	top: 0px;
+	width: 100%;
+	padding: 0px;
+	background-color: #f9f9f9;
+}
+
+
+.panel.post-page .flip-panes .messages-pane .chat-box
+{
+	width: 100%;
+	margin-top: 150px;
+	padding: 0px;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box > .header
+{
+	position: fixed;
+	top: 140px;
+	width: 100%;
+	margin: 0px;
+	padding: 10px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+	z-index: 100;
+}
+
+.panel.post-page .flip-panes .messages-pane .chat-box .message-box
+{
+	width: 100%;
+	left:0px;
+}
+/**End Post Page**/
+}

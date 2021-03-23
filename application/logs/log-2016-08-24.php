@@ -1,0 +1,34 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-08-24 05:12:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:12:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:12:47 --> 404 Page Not Found --> img
+ERROR - 2016-08-24 05:12:47 --> 404 Page Not Found --> img
+ERROR - 2016-08-24 05:12:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:12:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-08-24 05:12:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-08-24 05:12:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:12:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:12:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:13:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:13:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:13:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:13:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:13:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:13:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:13:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:14:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:14:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:14:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:14:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:14:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:15:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:15:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:15:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:15:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:15:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:19:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:19:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:20:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:20:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-08-24 05:20:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\finform\system\database\drivers\mysql\mysql_driver.php 91

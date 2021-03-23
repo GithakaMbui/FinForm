@@ -1,0 +1,4392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sere",
+				"series_attr"
+			],
+			[
+				"currnt",
+				"current_value"
+			],
+			[
+				"series",
+				"series_attr"
+			],
+			[
+				"curr",
+				"current_series"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"D",
+				"DataFilterForm"
+			],
+			[
+				"caro",
+				"carousel-control"
+			],
+			[
+				"categor",
+				"categories_user"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"pre",
+				"PreferencesWizard"
+			],
+			[
+				"a",
+				"activeItem"
+			],
+			[
+				"pr",
+				"productsPane"
+			],
+			[
+				"che",
+				"checkbox-inline"
+			],
+			[
+				"car",
+				"carousel-control"
+			],
+			[
+				"P",
+				"PreferencesWizard"
+			],
+			[
+				"prd",
+				"products_list"
+			],
+			[
+				"prod",
+				"prod_id"
+			],
+			[
+				"product",
+				"products_list"
+			],
+			[
+				"categ",
+				"categories_preferences"
+			],
+			[
+				"ca",
+				"categories_preferences"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"ta-",
+				"tab-pane"
+			],
+			[
+				"c",
+				"c_item"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"border-o",
+				"border-box"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"data",
+				"datapoints"
+			],
+			[
+				"datap",
+				"datapoint"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"categorie",
+				"categories_preferences"
+			],
+			[
+				"tm",
+				"tmp_user"
+			],
+			[
+				"us",
+				"user_index"
+			],
+			[
+				"sor",
+				"sorted_users"
+			],
+			[
+				"tmp_",
+				"tmp_user_points"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"par",
+				"parentContainer"
+			],
+			[
+				"ind",
+				"industry"
+			],
+			[
+				"indsu",
+				"industries"
+			],
+			[
+				"get_ins",
+				"get_industries"
+			],
+			[
+				"char",
+				"chartData"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"cha",
+				"chartData"
+			],
+			[
+				"Chart",
+				"ChartClass"
+			],
+			[
+				"cah",
+				"chartCanvas"
+			],
+			[
+				"chart",
+				"chart_id"
+			],
+			[
+				"da",
+				"datapoint_x"
+			],
+			[
+				"dat",
+				"datapoint"
+			],
+			[
+				"bas",
+				"base_name"
+			],
+			[
+				"basec",
+				"base_criteria"
+			],
+			[
+				"ch",
+				"chartData"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"curret",
+				"current_user"
+			],
+			[
+				"priv",
+				"provider_data"
+			],
+			[
+				"ta",
+				"tab-pane"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"tre",
+				"trendsDataSet"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"idn",
+				"industry_name"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pro",
+				"product_img"
+			],
+			[
+				"product_",
+				"product_categories"
+			],
+			[
+				"cae",
+				"category"
+			],
+			[
+				"en",
+				"endforeach"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Ac",
+				"Active_model"
+			],
+			[
+				"A",
+				"Active_model"
+			],
+			[
+				"po",
+				"product"
+			],
+			[
+				"item",
+				"item_images_dir_url"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"redire",
+				"redirect_url"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"sec",
+				"section	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"fI",
+				"FireAuth"
+			],
+			[
+				"cur",
+				"currentTimerEvent"
+			],
+			[
+				"cu",
+				"currentTimer"
+			],
+			[
+				"coun",
+				"countdown"
+			],
+			[
+				"render",
+				"renderViewTemplate"
+			],
+			[
+				"re",
+				"renderViewTemplate"
+			],
+			[
+				"rend",
+				"renderChildSections"
+			],
+			[
+				"Ap",
+				"AppMainMenuView"
+			],
+			[
+				"thumbna",
+				"thumbnail-links"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ba",
+				"ba2025"
+			],
+			[
+				"main",
+				"mainCat"
+			],
+			[
+				"res",
+				"resetCategoryTabPanes"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"store",
+				"store-products-sections"
+			],
+			[
+				"child",
+				"child_Cat"
+			],
+			[
+				"fb",
+				"ffbd1e"
+			],
+			[
+				"fd",
+				"ffbd1e"
+			],
+			[
+				"ord",
+				"orderby"
+			],
+			[
+				"d",
+				"da5b64"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"b",
+				"b7872d"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"oc",
+				"opacity"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"main_C",
+				"main_Categories_exists"
+			],
+			[
+				"mai",
+				"main_Product_Categories"
+			],
+			[
+				"inka",
+				"inka_contact_email"
+			],
+			[
+				"ink",
+				"inka_contact_email"
+			],
+			[
+				"shw",
+				"showFormError"
+			],
+			[
+				"sh",
+				"showFormError"
+			],
+			[
+				"co",
+				"contactModalForm"
+			],
+			[
+				"send",
+				"send_json"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"pading",
+				"padding"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+			"settings":
+			{
+				"buffer_size": 5920,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 2252,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/core/Active_Model.php",
+			"settings":
+			{
+				"buffer_size": 21546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3283,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/core/Active_Controller.php",
+			"settings":
+			{
+				"buffer_size": 3677,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/app.php",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/upload.php",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 3299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 13596,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/user_model.php",
+			"settings":
+			{
+				"buffer_size": 1963,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/users_model.php",
+			"settings":
+			{
+				"buffer_size": 15921,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/user_settings_model.php",
+			"settings":
+			{
+				"buffer_size": 997,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/region_model.php",
+			"settings":
+			{
+				"buffer_size": 803,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/regions_model.php",
+			"settings":
+			{
+				"buffer_size": 718,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/datapoints_model.php",
+			"settings":
+			{
+				"buffer_size": 1194,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/provider_model.php",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/providers_model.php",
+			"settings":
+			{
+				"buffer_size": 1094,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/category_model.php",
+			"settings":
+			{
+				"buffer_size": 918,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/categories_model.php",
+			"settings":
+			{
+				"buffer_size": 5177,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/categories/page-add-datapoint.php",
+			"settings":
+			{
+				"buffer_size": 2383,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/categories/page-edit-datapoint.php",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/product_model.php",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/products_model.php",
+			"settings":
+			{
+				"buffer_size": 4223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/product_datapoints_model.php",
+			"settings":
+			{
+				"buffer_size": 1688,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/product_category_model.php",
+			"settings":
+			{
+				"buffer_size": 734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/product_categories_model.php",
+			"settings":
+			{
+				"buffer_size": 772,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/industry_model.php",
+			"settings":
+			{
+				"buffer_size": 713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/industries_model.php",
+			"settings":
+			{
+				"buffer_size": 924,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/preference_model.php",
+			"settings":
+			{
+				"buffer_size": 986,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/preferences_model.php",
+			"settings":
+			{
+				"buffer_size": 705,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/welcome.php",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/app.php",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/accounts.php",
+			"settings":
+			{
+				"buffer_size": 2190,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/providers.php",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/regions.php",
+			"settings":
+			{
+				"buffer_size": 870,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/categories.php",
+			"settings":
+			{
+				"buffer_size": 904,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/products.php",
+			"settings":
+			{
+				"buffer_size": 1784,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/product.php",
+			"settings":
+			{
+				"buffer_size": 6275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/part-product-data-table-404.php",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php if(!defined('BASEPATH')) exit(\"Access Denied\");\nclass Users extends Active_Controller\n{\n	protected $models=array('users');\n\n	public function __construct()\n	{\n		parent::__construct();\n	}\n\n	public function search($id=null, $cat_id=null)\n	{\n		if($this->users->current_user('uid')!=$id\n			|| !($user=$this->users->get_user($id))) show_error('Unknown user');\n\n		if(!$this->input->post('usr_submit')) \n				redirect(base_url(\"dashboard/accounts/$user->id\"));\n\n		$name=$this->input->post('name');\n		$accounts=$this->users->like(array('firstname'=>$name))->paged_results();\n		$this->data['user']=$user;\n		$this->data['accounts']=$accounts;\n		$this->data['type']= (count($accounts['results']) ? 'success' : 'info');\n		$this->data['message']= (($count=count($accounts['results'])) ? \"$count items found\": 'No account found with that name');\n		$this->send_response($this->data, array('accounts/page-accounts'));\n\n	}\n}",
+			"file": "application/controllers/users.php",
+			"file_size": 938,
+			"file_write_time": 131157186717515304,
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/comparisons.php",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/analyses.php",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/user.php",
+			"settings":
+			{
+				"buffer_size": 1904,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/dashboard.php",
+			"settings":
+			{
+				"buffer_size": 33674,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/accounts/page-remove-account.php",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/industries/page-industries.php",
+			"settings":
+			{
+				"buffer_size": 1917,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/industries/page-add-industry.php",
+			"settings":
+			{
+				"buffer_size": 1695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/industries/page-edit-industry.php",
+			"settings":
+			{
+				"buffer_size": 1689,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/industries/page-remove-industry.php",
+			"settings":
+			{
+				"buffer_size": 1221,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/fonts.css",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/page-add-product-image.php",
+			"settings":
+			{
+				"buffer_size": 1700,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/providers/page-add-provider-image.php",
+			"settings":
+			{
+				"buffer_size": 1711,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/animate.css",
+			"settings":
+			{
+				"buffer_size": 71411,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 19606,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/users/page-home.php",
+			"settings":
+			{
+				"buffer_size": 4136,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/page-product.php",
+			"settings":
+			{
+				"buffer_size": 14872,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/part-product-data-table.php",
+			"settings":
+			{
+				"buffer_size": 1866,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/providers/page-provider.php",
+			"settings":
+			{
+				"buffer_size": 2742,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/providers/page-providers.php",
+			"settings":
+			{
+				"buffer_size": 4332,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/regions/page-add-region-image.php",
+			"settings":
+			{
+				"buffer_size": 1676,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/regions/page-regions.php",
+			"settings":
+			{
+				"buffer_size": 3074,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/categories/page-add-category-image.php",
+			"settings":
+			{
+				"buffer_size": 1704,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/accounts/page-activate-account.php",
+			"settings":
+			{
+				"buffer_size": 1220,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/accounts/page-account.php",
+			"settings":
+			{
+				"buffer_size": 2048,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/app/page-start.php",
+			"settings":
+			{
+				"buffer_size": 4000,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/part-product-trends.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/part-products-categories.php",
+			"settings":
+			{
+				"buffer_size": 1043,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/part-product-item.php",
+			"settings":
+			{
+				"buffer_size": 1028,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/common/header.php",
+			"settings":
+			{
+				"buffer_size": 4511,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/common/footer.php",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/users/primary-nav.php",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 5473,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/accounts/page-accounts.php",
+			"settings":
+			{
+				"buffer_size": 3579,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/common/master-detail-header.php",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/master-menu.php",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/page-category-products.php",
+			"settings":
+			{
+				"buffer_size": 2671,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/page-products-man.php",
+			"settings":
+			{
+				"buffer_size": 5270,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/accounts/page-login.php",
+			"settings":
+			{
+				"buffer_size": 1231,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/accounts/page-edit-account.php",
+			"settings":
+			{
+				"buffer_size": 2413,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/accounts/page-createaccount.php",
+			"settings":
+			{
+				"buffer_size": 1590,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/page-remove-product.php",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/page-add-product.php",
+			"settings":
+			{
+				"buffer_size": 2223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/providers/page-add-provider.php",
+			"settings":
+			{
+				"buffer_size": 2698,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/providers/page-edit-provider.php",
+			"settings":
+			{
+				"buffer_size": 2786,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/part-product-datapoint-avg-trends.php",
+			"settings":
+			{
+				"buffer_size": 1879,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/categories/page-remove-datapoint.php",
+			"settings":
+			{
+				"buffer_size": 1283,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/products/part-comparison-chart.php",
+			"settings":
+			{
+				"buffer_size": 2218,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/users/page-set-preferences.php",
+			"settings":
+			{
+				"buffer_size": 4126,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/grunt.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"Snippet: functi",
+				"Snippet: function …"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: lor	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: Class",
+				"Snippet: Class"
+			],
+			[
+				"Snippet: c",
+				"Snippet: Class"
+			],
+			[
+				"CDA",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"HT",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"quit()",
+			"exit();",
+			"quit",
+			"import system;",
+			"clear",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/pricedb",
+		"/C/wamp/www/pricedb/application",
+		"/C/wamp/www/pricedb/application/config",
+		"/C/wamp/www/pricedb/application/controllers",
+		"/C/wamp/www/pricedb/application/core",
+		"/C/wamp/www/pricedb/application/helpers",
+		"/C/wamp/www/pricedb/application/models",
+		"/C/wamp/www/pricedb/application/third_party",
+		"/C/wamp/www/pricedb/application/views",
+		"/C/wamp/www/pricedb/application/views/accounts",
+		"/C/wamp/www/pricedb/application/views/app",
+		"/C/wamp/www/pricedb/application/views/categories",
+		"/C/wamp/www/pricedb/application/views/common",
+		"/C/wamp/www/pricedb/application/views/dashboard",
+		"/C/wamp/www/pricedb/application/views/industries",
+		"/C/wamp/www/pricedb/application/views/products",
+		"/C/wamp/www/pricedb/application/views/providers",
+		"/C/wamp/www/pricedb/application/views/regions",
+		"/C/wamp/www/pricedb/application/views/users",
+		"/C/wamp/www/pricedb/css",
+		"/C/wamp/www/pricedb/fonts",
+		"/C/wamp/www/pricedb/img",
+		"/C/wamp/www/pricedb/img/app",
+		"/C/wamp/www/pricedb/img/app/items",
+		"/C/wamp/www/pricedb/img/gifs",
+		"/C/wamp/www/pricedb/img/gifs/loading",
+		"/C/wamp/www/pricedb/js",
+		"/C/wamp/www/pricedb/system"
+	],
+	"file_history":
+	[
+		"/C/Users/Ghoust/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/wamp/www/pricedb/js/vendor/highcharts.js",
+		"/C/wamp/www/pricedb/application/views/industries/master-menu.php",
+		"/C/wamp/www/pricedb/fonts/OFL.txt",
+		"/C/wamp/www/pricedb/application/views/products/part-product-datapoint-data-table.php",
+		"/C/wamp/www/pricedb/application/views/products/page-edit-product.php",
+		"/C/wamp/www/pricedb/application/views/providers/master-menu.php",
+		"/C/wamp/www/pricedb/application/views/providers/page-add-provider-image.php",
+		"/C/wamp/www/pricedb/application/views/products/page-add-product-image.php",
+		"/C/wamp/www/pricedb/application/views/providers/page-add-provider.php",
+		"/C/wamp/www/pricedb/application/views/regions/page-edit-region.php",
+		"/C/wamp/www/pricedb/application/views/providers/page-edit-provider.php",
+		"/C/wamp/www/pricedb/application/views/providers/page-remove-provider.php",
+		"/C/wamp/www/pricedb/application/views/providers/page-providers.php",
+		"/C/wamp/www/pricedb/application/views/providers/page-provider.php",
+		"/C/wamp/www/pricedb/application/views/regions/page-region.php",
+		"/C/wamp/www/pricedb/application/views/regions/master-menu.php",
+		"/C/wamp/www/pricedb/application/views/regions/page-add-region.php",
+		"/C/wamp/www/pricedb/application/views/regions/page-add-region-image.php",
+		"/C/wamp/www/pricedb/application/views/regions/page-remove-region.php",
+		"/C/wamp/www/pricedb/application/views/regions/page-regions.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-add-category-image.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-remove-datapoint.php",
+		"/C/wamp/www/pricedb/application/views/products/page-add-product-data.php",
+		"/C/wamp/www/pricedb/application/views/products/page-edit-product-data.php",
+		"/C/wamp/www/pricedb/application/views/products/page-remove-product-data.php",
+		"/C/wamp/www/pricedb/application/views/products/page-add-product-category.php",
+		"/C/wamp/www/pricedb/application/views/products/page-remove-product-category.php",
+		"/C/wamp/www/pricedb/application/views/products/part-analyse.php",
+		"/C/wamp/www/pricedb/application/views/products/part-compare-col.php",
+		"/C/wamp/www/pricedb/application/views/products/part-compare-stocks.php",
+		"/C/wamp/www/pricedb/application/views/products/part-compare-brs.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-add-category.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-edit-category.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-remove-category.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-category.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-categories.php",
+		"/C/wamp/www/pricedb/application/views/accounts/master-menu.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-add-account.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-edit-account.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-remove-account.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-account.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-add-account-image.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-accounts.php",
+		"/C/wamp/www/pricedb/application/views/common/master-detail-footer.php",
+		"/C/wamp/www/pricedb/application/views/dashboard/page-start.php",
+		"/C/wamp/www/pricedb/application/views/products/part-products-categories.php",
+		"/C/wamp/www/pricedb/application/views/products/part-product-item.php",
+		"/C/wamp/www/ion/wp-content/themes/charge/style.css",
+		"/C/wamp/www/pricedb/js/vendor/chart.js",
+		"/C/wamp/www/pricedb/css/app.css",
+		"/C/wamp/www/pricedb/application/views/categories/page-view-datapoint.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-edit-datapoint.php",
+		"/C/wamp/www/pricedb/application/views/categories/page-add-datapoint.php",
+		"/C/wamp/www/pricedb/application/views/users/part-profile.php",
+		"/C/wamp/www/pricedb/application/views/users/page-analyses.php",
+		"/C/wamp/www/pricedb/application/views/users/page-home.php",
+		"/C/wamp/www/pricedb/application/views/common/master-detail-header.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-createaccount.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-login.php",
+		"/C/wamp/www/pricedb/application/views/products/page-product.php",
+		"/C/wamp/www/pricedb/application/views/products/page-products.php",
+		"/C/wamp/www/pricedb/application/views/app/page-start.php",
+		"/C/wamp/www/pricedb/application/views/sellers/page-add-seller.php",
+		"/C/wamp/www/pricedb/application/views/sellers/master-menu.php",
+		"/C/wamp/www/pricedb/application/controllers/users.php",
+		"/C/wamp/www/pricedb/application/views/products/page-add-product.php",
+		"/C/wamp/www/pricedb/application/views/products/page-remove-product.php",
+		"/C/wamp/www/pricedb/application/views/products/page-products-man.php",
+		"/C/wamp/www/pricedb/application/views/products/page-add-product-charge.php",
+		"/C/wamp/www/pricedb/application/views/products/part-user-prices.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-profile.php",
+		"/C/wamp/www/pricedb/application/views/products/page-add-product-class.php",
+		"/C/wamp/www/pricedb/application/views/products/page-edit-product-class.php",
+		"/C/wamp/www/pricedb/application/views/products/page-remove-product-class.php",
+		"/C/wamp/www/pricedb/application/views/accounts/page-points.php",
+		"/C/wamp/www/pricedb/application/models/user_model.php",
+		"/C/wamp/www/pricedb/application/controllers/gen.php",
+		"/C/wamp/www/pricedb/application/controllers/routes.php",
+		"/C/wamp/www/pricedb/application/controllers/staff.php",
+		"/C/wamp/www/pricedb/application/controllers/vihecles.php",
+		"/C/wamp/www/pricedb/application/controllers/trips.php",
+		"/C/wamp/www/ebc/js/vendor/backbonefire.js",
+		"/C/wamp/www/ebc/js/app/start/app.js",
+		"/C/wamp/www/ebc/js/app/common/section-ebc-footer.js",
+		"/C/wamp/www/ebc/js/app/common/widget-quick-links.js",
+		"/C/wamp/www/ebc/application/views/start/page-start.php",
+		"/C/wamp/www/ebc/application/config/doctypes.php",
+		"/C/wamp/www/ebc/css/maintenance.css",
+		"/C/wamp/www/ebc/js/vendor/modernizr.custom.js",
+		"/C/wamp/www/ebc/application/views/maintenance/page-countdown.php",
+		"/C/Users/Ghoust/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/wamp/www/ebc/css/styles.css",
+		"/C/wamp/www/ebc/application/views/common/footer.php",
+		"/C/wamp/www/ebc/application/views/common/section.php",
+		"/C/wamp/www/ebc/js/app/common/views/section.js",
+		"/C/wamp/www/ebc/application/views/account/account-menu.php",
+		"/C/wamp/www/ebc/js/app/account/views/account-menu.js",
+		"/C/wamp/www/ebc/js/app/common/views/three-column-section.js",
+		"/C/wamp/www/ebc/js/app/common/views/banner-summary.js",
+		"/C/wamp/www/ebc/application/views/common/banner-summary.php",
+		"/C/wamp/www/ebc/js/app/common/views/banner-callac.js",
+		"/C/wamp/www/ebc/application/views/common/banner-callac.php",
+		"/C/wamp/www/ebc/application/views/common/thumbnail-links.php",
+		"/C/wamp/www/ebc/js/app/common/views/countdown-timer.js",
+		"/C/wamp/www/ebc/application/views/common/countdown-timer.php",
+		"/C/wamp/www/ebc/js/app/common/views/main-menu.js",
+		"/C/wamp/www/ebc/application/views/common/main-menu.php",
+		"/C/wamp/www/ebc/application/core/Active_Model.php",
+		"/C/wamp/www/ebc/application/views/start/countdown-timer.php",
+		"/C/wamp/www/ebc/js/app.js",
+		"/C/wamp/www/ebc/js/app/config/settings.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/www/ebc/js/app/common/views/page-header.js",
+		"/C/wamp/www/bb-ci/js/app.js",
+		"/C/wamp/www/ebc/js/app/config/require.js",
+		"/C/wamp/www/bb-ci/application/views/app.php",
+		"/C/Users/Ghoust/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/wamp/www/zakigear/wp-content/themes/notredam/woocommerce/content-product.php",
+		"/C/wamp/www/zakigear/wp-content/themes/notredam/woocommerce/archive-product.php",
+		"/C/wamp/www/zakigear/wp-content/themes/child-notredam/js/bootstrap.js",
+		"/C/wamp/www/zakigear/wp-content/themes/child-notredam/content-featured-product.php",
+		"/C/wamp/www/zakigear/wp-content/themes/child-notredam/woocommerce/archive-products.php",
+		"/C/wamp/www/zakigear/wp-content/themes/notredam/inc/classes/Assets.php",
+		"/C/wamp/www/zakigear/wp-content/themes/child-notredam/child-style.css",
+		"/C/wamp/www/zakigear/wp-content/themes/child-notredam/style.css",
+		"/C/wamp/www/zakigear/wp-content/themes/notredam/inc/functions.php",
+		"/C/wamp/www/zakigear/wp-content/themes/notredam/header.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"$product->name",
+			"#fd6611",
+			"Remove",
+			"category",
+			"region",
+			"$region",
+			"products",
+			"product",
+			"products",
+			"Product",
+			"Products",
+			"product",
+			"products",
+			"product",
+			"products",
+			"Product",
+			"Products",
+			"industrys",
+			"product",
+			"industry",
+			"industries",
+			"user",
+			"li",
+			"h1",
+			"Open Sans",
+			"\"",
+			"$provider",
+			"provider",
+			"category",
+			"product",
+			"provider",
+			"regions",
+			"providers",
+			"li",
+			"info",
+			"get_infos",
+			"categories_info_model",
+			"product_info_model",
+			"category",
+			"account",
+			"categories",
+			"category",
+			"Category",
+			"Categories",
+			"category",
+			"categories",
+			"Categories",
+			"Category",
+			"category",
+			"provider",
+			"region",
+			"provider",
+			"providers",
+			"Provider",
+			"product",
+			"provider",
+			"providers",
+			"Provider",
+			"Providers",
+			"product",
+			"products",
+			"Product",
+			"provider",
+			"Provider",
+			"provider",
+			"Provider",
+			"provider",
+			"Provider",
+			"provider",
+			"Provider",
+			"product",
+			"products",
+			"provider",
+			"product",
+			"provider",
+			"product",
+			"add_one",
+			"'Varela Round'",
+			"#ffa209",
+			"$this->users",
+			"strip-account-menu",
+			"#featured-products-slider",
+			"products-category-section",
+			"#da5b64",
+			"#ba2025",
+			" \n",
+			".php",
+			"=> ",
+			"]",
+			"[",
+			"xz_get_opt",
+			">\n",
+			" Sans',",
+			"n.rosybrown",
+			"n.red",
+			"col-xs-12 row",
+			"col-md-7 section-content details",
+			"{'element':",
+			"bakers",
+			"hazard",
+			"Hazards",
+			"hazard",
+			"$document",
+			"documents",
+			"preprograms",
+			"Program",
+			"$program",
+			"control",
+			"ingredient",
+			"person",
+			"people",
+			"ingredient",
+			"ingredients",
+			"hazard",
+			"person",
+			"people",
+			"person",
+			"people",
+			"program",
+			"clean_field",
+			"Open Sans",
+			"task",
+			"person",
+			"people",
+			"person",
+			"people",
+			"echo $",
+			"if(isset($subject))"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#529ecc",
+			"Activate",
+			"account",
+			"industry",
+			"industries",
+			"industry",
+			"industries",
+			"Industry",
+			"Industries",
+			"industries",
+			"industry",
+			"industries",
+			"industry",
+			"industries",
+			"Industry",
+			"Industries",
+			"industries",
+			"industry",
+			"preference",
+			"preferences",
+			"account",
+			"Lato",
+			"'",
+			"$account",
+			"region",
+			"provider",
+			"account",
+			"product",
+			"categories",
+			"regions",
+			"td",
+			"datapoint",
+			"get_datapoints",
+			"datapoints_model",
+			"datapoint",
+			"accounts",
+			"account",
+			"Account",
+			"Accounts",
+			"account",
+			"accounts",
+			"Accounts",
+			"Account",
+			"product",
+			"category",
+			"categories",
+			"Category",
+			"category",
+			"categories",
+			"Category",
+			"Categories",
+			"category",
+			"categories",
+			"Category",
+			"product",
+			"Product",
+			"region",
+			"Region",
+			"region",
+			"Region",
+			"region",
+			"Region",
+			"category",
+			"categories",
+			"region",
+			"provider",
+			"info",
+			"category",
+			"region",
+			"provider",
+			"'Open Sans'",
+			"#0666a7",
+			"$user",
+			"account-menu",
+			".featured-products-slider",
+			"store-products-section",
+			"#ba2025",
+			"#da5b64",
+			"#ff5ca6",
+			".php',",
+			"=> '",
+			"'",
+			" Sans Light',",
+			"n.silver",
+			"n.rosybrown",
+			"col-xs-12",
+			"col-md-8 section-content details",
+			"{",
+			"panels",
+			"control",
+			"Controls",
+			"control",
+			"$control",
+			"controls",
+			"hazards",
+			"Hazard",
+			"hazard",
+			"component",
+			"control",
+			"program",
+			"programs",
+			"study",
+			"studies",
+			"ingredient",
+			"ingredients",
+			"hazard",
+			"hazards",
+			"hazard",
+			"Varela Round",
+			"program",
+			"task",
+			"tasks",
+			"task",
+			"tasks",
+			"echo $message->",
+			"",
+			"isset($message->",
+			"subject",
+			"message",
+			"$message->subject",
+			"read",
+			"message",
+			"messages",
+			"outbox-messages",
+			"inbox-messages",
+			"all-messages",
+			"Inbox",
+			"Messages"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 55,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1002,
+								1002
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 40.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 85,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								941,
+								941
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/core/Active_Model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17205,
+								17212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11886.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 73,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2732,
+								2732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 580.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 86,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/core/Active_Controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								930,
+								930
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 790.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 87,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 77,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/config/upload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 84,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/config/autoload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3210,
+								3210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 81,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/config/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12972,
+								12972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10487.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 74,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "application/models/user_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1724,
+								1724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 920.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "application/models/users_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11556,
+								11556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1111.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "application/models/user_settings_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "application/models/region_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 83,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "application/models/regions_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 80,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "application/models/datapoints_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "application/models/provider_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								665,
+								665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 55,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "application/models/providers_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 63,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "application/models/category_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 82,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "application/models/categories_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4875,
+								4875
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3596.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "application/views/categories/page-add-datapoint.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2077,
+								2077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 69.0,
+						"translation.y": 718.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "application/views/categories/page-edit-datapoint.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2066,
+								2066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 765.0,
+						"translation.y": 716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "application/models/product_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 79,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "application/models/products_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4160,
+								4160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "application/models/product_datapoints_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1688,
+								1688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "application/models/product_category_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 78,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "application/models/product_categories_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 66,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "application/models/industry_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 64,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "application/models/industries_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								474,
+								474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 59,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "application/models/preference_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 67,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "application/models/preferences_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "application/controllers/welcome.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 400.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 65,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "application/controllers/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								909
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 516.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "application/controllers/accounts.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1560.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "application/controllers/providers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 85.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "application/controllers/regions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 79.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "application/controllers/categories.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "application/controllers/products.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1144,
+								1144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "application/controllers/product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5315,
+								5315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2880.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "application/views/products/part-product-data-table-404.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "application/controllers/users.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "application/controllers/comparisons.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 76,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "application/controllers/analyses.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 58,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "application/controllers/user.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								819,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "application/controllers/dashboard.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31300,
+								31300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 71.0,
+						"translation.y": 21516.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "application/views/accounts/page-remove-account.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "application/views/industries/page-industries.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1346,
+								1346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 175.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 51,
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "application/views/industries/page-add-industry.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1163,
+								1163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 388.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 62,
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "application/views/industries/page-edit-industry.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1322,
+								1322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 800.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 61,
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "application/views/industries/page-remove-industry.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								918,
+								918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "css/fonts.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 44.0,
+						"translation.y": 40.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 68,
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "application/views/products/page-add-product-image.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1568,
+								1568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 320.0,
+						"translation.y": 316.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 47,
+					"type": "text"
+				},
+				{
+					"buffer": 51,
+					"file": "application/views/providers/page-add-provider-image.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1540,
+								1540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 856.0,
+						"translation.y": 542.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 69,
+					"type": "text"
+				},
+				{
+					"buffer": 52,
+					"file": "css/animate.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71411,
+								71411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 65056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 70,
+					"type": "text"
+				},
+				{
+					"buffer": 53,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17185,
+								17185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 21759.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 54,
+					"file": "application/views/users/page-home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2971,
+								2971
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 94.0,
+						"translation.y": 1297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 55,
+					"file": "application/views/products/page-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13920,
+								13920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 168.0,
+						"translation.y": 6431.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 56,
+					"file": "application/views/products/part-product-data-table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1617,
+								1617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 35.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 57,
+					"file": "application/views/providers/page-provider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1874,
+								1874
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 647.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 52,
+					"type": "text"
+				},
+				{
+					"buffer": 58,
+					"file": "application/views/providers/page-providers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1325,
+								1325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 58.0,
+						"translation.y": 356.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 59,
+					"file": "application/views/regions/page-add-region-image.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1489,
+								1489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 745.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 50,
+					"type": "text"
+				},
+				{
+					"buffer": 60,
+					"file": "application/views/regions/page-regions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								745,
+								745
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 395.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 49,
+					"type": "text"
+				},
+				{
+					"buffer": 61,
+					"file": "application/views/categories/page-add-category-image.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1552,
+								1552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 766.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 48,
+					"type": "text"
+				},
+				{
+					"buffer": 62,
+					"file": "application/views/accounts/page-activate-account.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 313.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 63,
+					"file": "application/views/accounts/page-account.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 64,
+					"file": "application/views/app/page-start.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1567,
+								1567
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 517.0,
+						"translation.y": 310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 65,
+					"file": "application/views/products/part-product-trends.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 72,
+					"type": "text"
+				},
+				{
+					"buffer": 66,
+					"file": "application/views/products/part-products-categories.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 67,
+					"file": "application/views/products/part-product-item.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								791,
+								938
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 715.0,
+						"translation.y": -0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 68,
+					"file": "application/views/common/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4033,
+								4033
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 281.0,
+						"translation.y": 1314.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 69,
+					"file": "application/views/common/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 70,
+					"file": "application/views/users/primary-nav.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 71,
+					"type": "text"
+				},
+				{
+					"buffer": 71,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3771,
+								3771
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 18.0,
+						"translation.y": 1720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 72,
+					"file": "application/views/accounts/page-accounts.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1249,
+								1249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 100.0,
+						"translation.y": 457.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 73,
+					"file": "application/views/common/master-detail-header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 74,
+					"file": "application/views/products/master-menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 57,
+					"type": "text"
+				},
+				{
+					"buffer": 75,
+					"file": "application/views/products/page-category-products.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2558,
+								2558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 76,
+					"file": "application/views/products/page-products-man.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3608,
+								3608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1527.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				},
+				{
+					"buffer": 77,
+					"file": "application/views/accounts/page-login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 78,
+					"file": "application/views/accounts/page-edit-account.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2413,
+								2413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 79,
+					"file": "application/views/accounts/page-createaccount.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 75,
+					"type": "text"
+				},
+				{
+					"buffer": 80,
+					"file": "application/views/products/page-remove-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								703,
+								703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 60,
+					"type": "text"
+				},
+				{
+					"buffer": 81,
+					"file": "application/views/products/page-add-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1174,
+								1534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 56,
+					"type": "text"
+				},
+				{
+					"buffer": 82,
+					"file": "application/views/providers/page-add-provider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 454.0,
+						"translation.y": 471.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 54,
+					"type": "text"
+				},
+				{
+					"buffer": 83,
+					"file": "application/views/providers/page-edit-provider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1526,
+								1526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 39.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 53,
+					"type": "text"
+				},
+				{
+					"buffer": 84,
+					"file": "application/views/products/part-product-datapoint-avg-trends.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								690,
+								690
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 85,
+					"file": "application/views/categories/page-remove-datapoint.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								841,
+								841
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 143.0,
+						"translation.y": 190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 86,
+					"file": "application/views/products/part-comparison-chart.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								922,
+								922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 28.0,
+						"translation.y": 749.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 87,
+					"file": "application/views/users/page-set-preferences.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3896,
+								3896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 152.0,
+						"translation.y": 1248.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"project": "pricedb.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"mafundi\\application\\models\\accounts_model.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}
